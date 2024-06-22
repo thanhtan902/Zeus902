@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 $ cat me.txt
 Jon Snow
 lordsnow@mit.edu
 Course 16
+=======
+Arya Stark
+astark@mit.edy
+>>>>>>> new_branch_to_merge_later
